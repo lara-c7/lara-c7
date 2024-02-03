@@ -1,7 +1,7 @@
 ### Hey there! 👋 I'm Lara :)
 🌱 I’m now a Python student
 🔭 Currently working on solving different Python problems and creating some basic projects
-👯 I’m looking to collaborate on certain projects
+👯 I’m looking forward to collaborating on certain projects
 ⚡ Motivational quote: It's often the last key that opens the door. Keep trying
 
 <!--
